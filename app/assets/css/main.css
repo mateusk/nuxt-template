@@ -10,8 +10,3 @@ body {
   overflow: hidden;
   scrollbar-width: none;
 }
-
-.noise {
-  /* ... */
-  background: color(srgb red green blue), url('../svgs/noise.svg');
-}
